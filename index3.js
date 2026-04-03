@@ -1,3 +1,2 @@
-console.log("Hello, Git!");
-
-console.log("Hello, Git4!");
+function greet(){
+  console.log("Hello from remote branch")
